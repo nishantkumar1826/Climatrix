@@ -63,7 +63,7 @@ Climate Prediction is a cutting-edge deep learning project that leverages **LSTM
 
 1. **📥 Clone the repository:**
 ```
-git clone https://github.com/nishant1826/climatrix.git
+git clone https://github.com/nishantkumar1826/climatrix.git
 cd climate_predictor
 ```
 
@@ -135,5 +135,6 @@ python3 dash_app.py
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer&animation=fadeIn"/>
 
 </div>
+
 
 
