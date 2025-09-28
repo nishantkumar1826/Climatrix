@@ -1,0 +1,20 @@
+# Deep learning
+torch>=2.0.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.25.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.12.2
+plotly>=6.0.0
+
+# Dash web app
+dash>=3.0.0
+dash-core-components>=2.1.1
+dash-html-components>=2.1.0
+dash-bootstrap-components>=1.4.1
+
+# Kaggle API (optional, for dataset download)
+kaggle>=1.5.13
