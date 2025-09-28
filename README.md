@@ -63,7 +63,7 @@ Climate Prediction is a cutting-edge deep learning project that leverages **LSTM
 
 1. **📥 Clone the repository:**
 ```
-git clone https://github.com/nishant1826/climatrix.git
+git clone https://github.com/nishantkumar1826/climatrix.git
 cd climate_predictor
 ```
 
